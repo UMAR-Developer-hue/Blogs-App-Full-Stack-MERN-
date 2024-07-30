@@ -1,0 +1,48 @@
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+}
+
+.logo-container img {
+    height: 80px;
+    width: auto;
+}
+
+
+@media (min-width: 320px) and (max-width: 770px) {
+    .content {
+        margin-top: 70px !important;
+        width: 100%;
+        margin-left: 0px !important;
+    }
+    .form-lables{
+        margin-top:30px !important;
+    }
+    .search-bar{
+        margin-left: 30px !important;
+        margin-top: 12px !important;
+    }
+.myButton{
+    margin-top: 15px;
+
+}
+.Cars-Card{
+    width: 15rem !important; 
+}
+.Card-Cars-Image{
+    height: 130px !important;
+}
+
+.Cars-Full-Card{
+    margin-left: -11px !important;
+}
+
+}
+
+
+/* Trying sidebar upside the section part  */
+/* ________________________________________- */
+
+
